@@ -507,7 +507,8 @@ eomday	Last day of month
 weekday	Day of week
 addtodate	Modify date number by field
 etime	Time elapsed between date vectors
-Mathematics
+
+###Mathematics
 
 Elementary Math
 Arithmetic
